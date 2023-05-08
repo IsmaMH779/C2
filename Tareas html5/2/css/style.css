@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(50, 3, 97);
+    color: white;
+}
+
+table {
+    border: white 1px solid;
+}
+
+td {
+    background-color: white;
+}
+
+tr {
+    background-color: black;
+}
